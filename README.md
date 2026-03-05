@@ -5,7 +5,9 @@ This repository documents my journey into Artificial Intelligence, Machine Learn
 
 I currently work as a Data Specialist focusing on data engineering, analytics, and reporting.
 
-In 2026, I started a Master of Information Technology (Artificial Intelligence) at Queensland University of Technology (QUT).
+In 2025, I completed a **Graduate Certificate in Data Analytics** at **Queensland University of Technology (QUT)**.
+
+In 2026, I started a **Master of Information Technology (Artificial Intelligence)** at **Queensland University of Technology (QUT)** to expand my expertise in AI-driven systems.
 
 ## Areas of Interest
 
