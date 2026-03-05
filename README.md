@@ -29,4 +29,14 @@ Notes and concepts from my studies.
 Hands-on projects as I learn and experiment with AI and machine learning.
 
 ## Goal
+
 To continue learning and exploring how data engineering and artificial intelligence can work together to build useful data-driven solutions.
+
+## Current Tech Stack
+
+- SQL
+- Python
+- PySpark
+- Databricks
+- Power BI
+- Azure Data Platform
